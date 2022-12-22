@@ -3,7 +3,6 @@
 This is a solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
 ## Table of contents
-- [Screenshot](#screenshot)
 - [Links](#links)
 - [My process](#my-process)
 - [Built with](#built-with)
@@ -15,15 +14,12 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 
 
-### Screenshot
 
-![](./screenshot.jpg)
 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Add live site URL here](https://koussaydhifi.github.io/Frontend-Mentor-QR-code-component.github.io/)
 
 
 
@@ -48,7 +44,7 @@ I would like to learn more about flex-box in css and to start learning grid.
 
 ### Useful resources
 
-- (https://www.youtube.com/watch?v=qgmLDPLApBY) - This helped me for using google fonts .
+- (https://www.youtube.com/watch?v=qgmLDPLApBY) - This helped me in using google fonts .
 
 
 
